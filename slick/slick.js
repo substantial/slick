@@ -17,6 +17,8 @@
 
 /* global window, document, define, jQuery, setInterval, clearInterval */
 
+window.SlickVersion = "1.3.7.2"
+
 (function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
