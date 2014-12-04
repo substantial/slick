@@ -1,3 +1,4 @@
+window.SlickVersion = "1.4.3";
 (function(factory) {
     'use strict';
     if (typeof define === 'function' && define.amd) {
